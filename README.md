@@ -1,4 +1,4 @@
-# Hi, I'm Krystian 👋
+# 👋 Hello there! I'm Krystian
 <img src="image.jpg" alt="alt">
 
 

@@ -14,7 +14,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 📫 How to reach me: krystianptak92t@gmail.com
 
-📝 Resume
+📝   Checkout my resume
 
 ## Find me around the web 🌍
 - <a href="google.com" target="_blank">Portfolio</a> <img src="circle-user-regular.svg" height="15px" width="auto">

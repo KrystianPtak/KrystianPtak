@@ -2,7 +2,9 @@
 <img src="" alt="alt">
 
 ### Glad to see you here!   
-⭐Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis dui eget lectus laoreet accumsan ut ut velit. Nam sodales sit amet leo in malesuada. Praesent pulvinar odio tempor enim placerat posuere. In massa ligula, pretium vel mi at, venenatis maximus massa. Maecenas vitae felis efficitur, pharetra sem ullamcorper, pulvinar est. Suspendisse luctus dolor ante, et tristique odio molestie eu. Donec porta efficitur nisi.⭐
+⭐I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future). It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.⭐
 💬 Ask me about anything, I am happy to help 
 📚 I’m currently learning React
 

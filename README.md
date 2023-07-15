@@ -12,7 +12,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 🌱 I’m currently learning React
 
-📫 How to reach me: krystianptak92t@gmail.com
+📫 How to reach me: krystianptak92@gmail.com
 
 📝   Checkout my resume
 

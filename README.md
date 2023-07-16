@@ -6,7 +6,7 @@
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.⭐
 
-# 💫 About Me:
+## 💫 About Me:
 🔭  I’m currently working on new projects<br>🌱  I’m currently learning React<br>💬  Ask me about anything, I am happy to help<br>📫 How to reach me: krystianptak92@gmail.com<br>📝  Checkout my resume
 
 ## 🌐 Socials:

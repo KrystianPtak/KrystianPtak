@@ -1,4 +1,3 @@
-# Hello there!  I'm Krystian 👋👩🏾‍💻
 <img src="github-header-image.png" alt="alt">
 
 ### Glad to see you here!   

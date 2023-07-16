@@ -11,5 +11,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krystian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krystian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krsytian) 
 
-<img src="pngegg.png" width="70px" height="50px"/>
+<img src="pngegg.png" width="65px" height="50px"/>
 

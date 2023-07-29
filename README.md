@@ -1,4 +1,4 @@
-<img src="guthyb_header.png" alt="alt">
+<img src="guthub_header.png" alt="alt">
 
 ## Glad to see you here!   
 ⭐ I love making and designing webpages with HTML and CSS and JavaScript. It's fun to code something that anyone on the web can easily see. I love it when I can finally solve a difficult problem. ⭐
